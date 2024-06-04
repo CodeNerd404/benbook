@@ -1,5 +1,7 @@
 # benbook
 
+[首选教程-优选各国ip](https://www.youtube.com/watch?v=59THrmJhmAw)
+
 [功给Cloudflare CDN免费节点固定IP！解决IP地区乱跳问题！](https://www.youtube.com/watch?v=t8KaA0tuhT0)
 
 1. 先通过 电报群获取IP，或者使用此网址，http://zip.baipaio.eu.org/
@@ -11,6 +13,14 @@
 [零度博客优选教程](https://www.freedidi.com/10143.html)
 
 type *.csv>>all.csv
+
+
+## [实用小技-教程](https://jdssl.top/index.php/2023/07/21/2023vpn/)
+固定IP
+
+部署代码：https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js
+
+workers win专用ip优选：[下载地址>>](https://jdssl.top/wp-content/uploads/2023/07/works%E4%B8%93%E7%94%A8ip%E4%BC%98%E9%80%89.zip)
 
 
 
