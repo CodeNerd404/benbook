@@ -27,7 +27,9 @@ IP落地区域: 数码海 维护频率: 4小时/次
 再次重申！该域名只能作为ProxyIP代理域名使用！   
 作为优选域名并不会起到加速的效果，其效果仅相当于官方直连。   
 ——   
-第三方维护ProxyIP:
+第三方维护ProxyIP:  
+[NiREvil-ProxyIP.md](https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md)
+
 workers.cloudflare.cyou [白嫖哥维护](https://t.me/v2rayByCf/141) //失效 
  
 //ISP比较杂  
