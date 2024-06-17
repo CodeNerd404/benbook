@@ -1,23 +1,23 @@
 
 
-shopify.com
-time.is
-icook.hk
-icook.tw
-ip.sb
-japan.com
-malaysia.com
-russia.com
-singapore.com
-skk.moe
-www.visa.com.sg
-www.visa.com.hk
-www.visa.com.tw
-www.visa.co.jp
-www.visakorea.com
-www.gco.gov.qa
-www.gov.se
-www.gov.ua
+shopify.com  
+time.is  
+icook.hk  
+icook.tw  
+ip.sb  
+japan.com  
+malaysia.com  
+russia.com  
+singapore.com  
+skk.moe  
+www.visa.com.sg  
+www.visa.com.hk  
+www.visa.com.tw  
+www.visa.co.jp  
+www.visakorea.com  
+www.gco.gov.qa  
+www.gov.se  
+www.gov.ua  
 
 
 
